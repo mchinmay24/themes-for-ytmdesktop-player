@@ -4,7 +4,7 @@
 
 Various Youtube Music CSS Themes made by OceanicSquirrel. (Original README.md by Niruzoid, refactored by kerichdev)
 
-There are a total of 12 original themes to choose from:
+There are a total of 14 themes to choose from:
 
 * [Concrete](https://github.com/kerichdev/themes-for-ytmdesktop-player/tree/main#concrete)
 * [Plymouthy Pink](https://github.com/kerichdev/themes-for-ytmdesktop-player/tree/main#plymouthy-pink)
@@ -18,10 +18,8 @@ There are a total of 12 original themes to choose from:
 * [Spooky Blue](https://github.com/kerichdev/themes-for-ytmdesktop-player/tree/main#spooky-blue)
 * [Snow Blind](https://github.com/kerichdev/themes-for-ytmdesktop-player/tree/main#Snow-Blind)
 * [White Gold](https://github.com/kerichdev/themes-for-ytmdesktop-player/tree/main#White-Gold)
-
-As well as user submitted ones:
-
 * [Sweetified YTM](https://github.com/kerichdev/themes-for-ytmdesktop-player/tree/main#Sweetified-YTM)
+* [Rose Pine](https://github.com/mchinmay24/themes-for-ytmdesktop-player/blob/main/Dark%20Themes/Monocolored/Rose%20Pine.css)
 
 ## Installation
 
@@ -122,3 +120,9 @@ Assuming you have the latest build with the theme selection menu, open the app, 
 ![White Gold](https://i.ibb.co/L5RjRbr/image.png "Sweetified YTM")
 
 [Get it here](https://github.com/kerichdev/themes-for-ytmdesktop-player/blob/main/Dark%20Themes/Blackout/Sweetified%20YTM.css)
+
+### Rose Pine
+
+![Rose Pine](https://imgur.com/a/KyZiu0B)
+
+[Get it here](https://github.com/mchinmay24/themes-for-ytmdesktop-player/blob/main/Dark%20Themes/Monocolored/Rose%20Pine.css)
