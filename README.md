@@ -123,6 +123,6 @@ Assuming you have the latest build with the theme selection menu, open the app, 
 
 ### Rose Pine
 
-![Rose Pine](https://imgur.com/FXI3xve)
+![Rose Pine](https://github.com/mchinmay24/themes-for-ytmdesktop-player/blob/main/Rose%20Pine.png)
 
 [Get it here](https://github.com/mchinmay24/themes-for-ytmdesktop-player/blob/main/Dark%20Themes/Monocolored/Rose%20Pine.css)
