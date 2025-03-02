@@ -12,7 +12,7 @@ There are a total of 14 themes to choose from:
 * [Shady Green](https://github.com/kerichdev/themes-for-ytmdesktop-player/tree/main#Shady-Green)
 * [Eggplant](https://github.com/kerichdev/themes-for-ytmdesktop-player/tree/main#eggplant)
 * [Rust](https://github.com/kerichdev/themes-for-ytmdesktop-player/tree/main#Rust)
-* [Bright Brown](https://github.com/kerichdev/themes-for-ytmdesktop-player/tree/main#bright-brown)
+* [Bright Brown](https://github.com/kerichdev/themes-for-ytmdesktop-plhttps://github.com/mchinmay24/themes-for-ytmdesktop-player/blob/main/Dark%20Themes/Monocolored/Rose%20Pine.cssayer/tree/main#bright-brown)
 * [Black and Gold](https://github.com/kerichdev/themes-for-ytmdesktop-player/tree/main#black-and-gold)
 * [Electric Lime](https://github.com/kerichdev/themes-for-ytmdesktop-player/tree/main#electric-lime)
 * [Spooky Blue](https://github.com/kerichdev/themes-for-ytmdesktop-player/tree/main#spooky-blue)
@@ -123,6 +123,6 @@ Assuming you have the latest build with the theme selection menu, open the app, 
 
 ### Rose Pine
 
-![Rose Pine](https://imgur.com/a/KyZiu0B)
+![Rose Pine](https://imgur.com/FXI3xve)
 
 [Get it here](https://github.com/mchinmay24/themes-for-ytmdesktop-player/blob/main/Dark%20Themes/Monocolored/Rose%20Pine.css)
